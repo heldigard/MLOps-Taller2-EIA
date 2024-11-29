@@ -1,4 +1,4 @@
-# MLOps-Taller2-EIA
+# MLOps-Taller3-EIA
 
 Integrantes:
 
