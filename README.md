@@ -5,18 +5,29 @@ Integrantes:
 * Linda Castaño
 * Eldigardo Camacho
 
-# Company Bankruptcy Prediction
+## Descripción
+
+Descripción de los archivos del proyecto.
+
+* **1_Pycaret_Heart.ipynb**: En este archivo se realiza la implementación de un modelo de clasificación para predecir enfermedades del corazón. Se utiliza la librería Pycaret para realizar la implementación del modelo.
+* **2_ML_Flow_Optuna_Bankrupt.ipynb**: En este archivo se realiza la implementación de un modelo de clasificación para predecir bancarrotas de empresas. Se utiliza la librería MLFlow y Optuna para realizar la implementación del modelo.
+* **heart.csv**: Base de datos de enfermedades del corazón.
+* **bankrupt.csv**: Base de datos de bancarrotas de empresas.
+
+La descripción de la base de datos de las bancarrotas es la siguiente:
+
+### Company Bankruptcy Prediction
 
 Fuente de datos:
 
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
 
-### Context
+#### Context
 
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
 
-### Attribute Information
+#### Attribute Information
 
 **Version 2:** Updated column names and description to make the data easier to understand (Y = Output feature, X = Input features)
 
