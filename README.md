@@ -11,6 +11,7 @@ Descripción de los archivos del proyecto.
 
 * **1_Pycaret_Heart.ipynb**: En este archivo se realiza la implementación de un modelo de clasificación para predecir enfermedades del corazón. Se utiliza la librería Pycaret para realizar la implementación del modelo.
 * **2_ML_Flow_Optuna_Bankrupt.ipynb**: En este archivo se realiza la implementación de un modelo de clasificación para predecir bancarrotas de empresas. Se utiliza la librería MLFlow y Optuna para realizar la implementación del modelo.
+* **Taller 3_MLOPS.pdf**: En este archivo se encuentra el informe del Taller 3.
 * **heart.csv**: Base de datos de enfermedades del corazón.
 * **bankrupt.csv**: Base de datos de bancarrotas de empresas.
 * **screenshots**: En esta carpeta se encuentran las capturas de pantalla de los resultados obtenidos en los modelos implementados con MLFlow y Optuna.
