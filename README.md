@@ -13,6 +13,18 @@ Descripción de los archivos del proyecto.
 * **2_ML_Flow_Optuna_Bankrupt.ipynb**: En este archivo se realiza la implementación de un modelo de clasificación para predecir bancarrotas de empresas. Se utiliza la librería MLFlow y Optuna para realizar la implementación del modelo.
 * **heart.csv**: Base de datos de enfermedades del corazón.
 * **bankrupt.csv**: Base de datos de bancarrotas de empresas.
+* **screenshots**: En esta carpeta se encuentran las capturas de pantalla de los resultados obtenidos en los modelos implementados con MLFlow y Optuna.
+
+El Optuna ayuda a encontrar los mejores hiperparámetros para el modelo de clasificación de bancarrotas de empresas. Se implementa un modelo de clasificación con la librería MLFlow y se utilizan los hiperparámetros encontrados por Optuna.
+
+Estas son las capturas de pantalla mas significas de MLFlow:
+
+![MLFlow](screenshots/Random_Forest.png)
+
+![MLFlow](screenshots/Optimized_Random_Forest.png)
+
+
+---------------------------------------------
 
 La descripción de la base de datos de las bancarrotas es la siguiente:
 
@@ -22,6 +34,9 @@ Fuente de datos:
 
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
+
+<details>
+  <summary>Context and Attribute Information</summary>
 
 #### Context
 
@@ -227,3 +242,5 @@ X95 - Equity to Liability
 
 Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan
 The data was obtained from UCI Machine Learning Repository: [https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction](https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction)
+
+</details>
